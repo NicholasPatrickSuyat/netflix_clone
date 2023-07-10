@@ -1,2 +1,4 @@
 app/application/migrations
 venv
+.pytest_cache
+.vscode
